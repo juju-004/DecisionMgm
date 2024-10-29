@@ -1,0 +1,15 @@
+:root {
+  --header-height: 5rem;
+  --map-width-wide-screen: 85vw;
+}
+
+html {
+  min-width: 320px;
+  font-size: calc(15px + 0.390625vw);
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  overflow: hidden;
+}
