@@ -107,9 +107,9 @@ export const navItems: NavItem[] = [
     items: [], // No child items
   },
   {
-    title: "Disaster",
-    url: "/dashboard/disaster",
-    icon: "earth",
+    title: "About us",
+    url: "/dashboard/about",
+    icon: "about",
     isActive: false,
     items: [], // No child items
   },

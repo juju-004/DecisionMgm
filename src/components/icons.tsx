@@ -33,6 +33,7 @@ import {
   X,
   MessageCircle,
   Cloud,
+  Users2,
   Earth,
 } from "lucide-react";
 
@@ -45,6 +46,7 @@ export const Icons = {
   cloud: Cloud,
   login: LogIn,
   earth: Earth,
+  about: Users2,
   close: X,
   product: LucideShoppingBag,
   spinner: Loader2,
